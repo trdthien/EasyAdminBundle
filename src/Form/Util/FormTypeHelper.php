@@ -100,7 +100,7 @@ final class FormTypeHelper
         'easyadmin_group' => EasyAdminGroupType::class,
         'easyadmin_section' => EasyAdminSectionType::class,
         // Popular third-party bundles types
-        'ckeditor' => 'FOS\\CKEditorBundle\\Form\\Type\\CKEditor',
+        'ckeditor' => 'FOS\\CKEditorBundle\\Form\\Type\\CKEditorType',
         'vich_file' => 'Vich\\UploaderBundle\\Form\\Type\\VichFileType',
         'vich_image' => 'Vich\\UploaderBundle\\Form\\Type\\VichImageType',
     ];
